@@ -1,1 +1,2 @@
 this is a test file
+this test file has been edited in newMaster
