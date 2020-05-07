@@ -7,7 +7,6 @@
 
 
 
-
 this is a test file
 
 
@@ -28,4 +27,6 @@ this is a test file
 
 
 
-
+this test file has been edited in newMaster
+This is coming from the Merged Branch
+blah blah blah
